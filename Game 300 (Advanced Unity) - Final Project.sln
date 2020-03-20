@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game 300 (Advanced Unity) - Final Project", "Game 300 (Advanced Unity) - Final Project.csproj", "{70C05DCC-E50D-AC00-0BCD-E3FF6705C5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game 300 (Advanced Unity) - Final Project.Plugins", "Game 300 (Advanced Unity) - Final Project.Plugins.csproj", "{872BDF14-9309-79B1-92F5-0E2A59FE033C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game 300 (Advanced Unity) - Final Project.Editor", "Game 300 (Advanced Unity) - Final Project.Editor.csproj", "{573E036C-478C-E4DD-DF60-3FB9F42E14AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C05DCC-E50D-AC00-0BCD-E3FF6705C5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C05DCC-E50D-AC00-0BCD-E3FF6705C5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C05DCC-E50D-AC00-0BCD-E3FF6705C5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C05DCC-E50D-AC00-0BCD-E3FF6705C5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872BDF14-9309-79B1-92F5-0E2A59FE033C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872BDF14-9309-79B1-92F5-0E2A59FE033C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872BDF14-9309-79B1-92F5-0E2A59FE033C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872BDF14-9309-79B1-92F5-0E2A59FE033C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{573E036C-478C-E4DD-DF60-3FB9F42E14AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{573E036C-478C-E4DD-DF60-3FB9F42E14AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{573E036C-478C-E4DD-DF60-3FB9F42E14AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{573E036C-478C-E4DD-DF60-3FB9F42E14AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
